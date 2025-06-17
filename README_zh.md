@@ -29,7 +29,7 @@
 - openai
 - langchain==0.3.25
 - PyMuPDF==1.22.5
-- pandas==2.1.1
+- pandas==2.3.0
 - langchain_community==0.3.25
 
 ### 安裝步驟
