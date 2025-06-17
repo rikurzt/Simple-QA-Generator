@@ -26,7 +26,7 @@ Compared to the original project, the TaskingAI installation requirement has bee
 
 - streamlit==1.22.0
 - requests==2.31.0
-- openai
+- openai==1.86.0
 - langchain==0.3.25
 - PyMuPDF==1.22.5
 - pandas==2.3.0
